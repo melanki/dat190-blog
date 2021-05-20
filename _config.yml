@@ -104,10 +104,4 @@ theme: next
 deploy:
   type: ''
 
-# hexo-filter-github-emojis
-githubEmojis:
-  enable: true
-  className: github-emoji
-  inject: true
-  styles:
-  customEmojis:
+root: '/dat190-blog/'
