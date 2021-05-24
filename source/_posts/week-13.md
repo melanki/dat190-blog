@@ -20,12 +20,5 @@ Vue was a bit worse, getting into the whole lifecycle & state mindset.
 
 Storybook itself was pretty straight forward, but the combination of Storybook & Vue was what made it a hassle.
 
-## First Proof of Concept 🛠️
-As we had a meeting with Vizrt coming up, we took all of our components and put it together to a View / Page.
-We managed to put together a proof of concept, where we could import an SVG and render the graphics & look at the structure / tags of the imported SVG.
-
-## Crash course in Academic Writing & Methods ✍️
-We also attended a lecture for writing academically & had a workshop on **metode?**
-
 ## Deliverables 📦
 None
